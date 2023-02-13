@@ -1,0 +1,86 @@
+@keyframes typing {
+    0% { content: ' |'; }
+    1% { content: ' S|'; }
+    2% { content: ' Si|'; }
+    3% { content: ' Sim|'; }
+    4% { content: ' Simo|'; }
+    5% { content: ' Simone|'; }
+    12% { content: ' Simone|'; }
+    13% { content: ' Simon|'; }
+    14% { content: ' Simo|'; }
+    15% { content: ' Sim|'; }
+    16% { content: ' Si|'; }
+    17% { content: ' S|'; }
+    18% { content: ' |'; }
+    19% { content: ' a|'; }
+    20% { content: ' a |'; }
+    21% { content: ' a F|'; }
+    22% { content: ' a Fr|'; }
+    23% { content: ' a Fre|'; }
+    24% { content: ' a Free|'; }
+    25% { content: ' a Freel|'; }
+    26% { content: ' a Freela|'; }
+    27% { content: ' a Freelan|'; }
+    28% { content: ' a Freelanc|'; }
+    29% { content: ' a Freelance|'; }
+    30% { content: ' a Freelancer|'; }
+    31% { content: ' a Freelancer.|'; }
+    41% { content: ' a Freelancer.|'; }
+    42% { content: ' a Freelance|'; }
+    43% { content: ' a Freelanc|'; }
+    44% { content: ' a Free|'; }
+    45% { content: ' a F|'; }
+    46% { content: ' a |'; }
+    47% { content: ' a D|'; }
+    48% { content: ' a De|'; }
+    49% { content: ' a Des|'; }
+    50% { content: ' a Desi|'; }
+    51% { content: ' a Desig|'; }
+    52% { content: ' a Design|'; }
+    53% { content: ' a Designe|'; }
+    54% { content: ' a Designer.|'; }
+    64% { content: ' a Designer.|'; }
+    65% { content: ' a Designe|r.'; }
+    66% { content: ' a Design|er.'; }
+    67% { content: ' a Desig|er.'; }
+    68% { content: ' a Desi|er.'; }
+    69% { content: ' a Des|er.'; }
+    70% { content: ' a De|er.'; }
+    71% { content: ' a Dev|er.'; }
+    72% { content: ' a Deve|er.'; }
+    73% { content: ' a Devel|er.'; }
+    74% { content: ' a Develo|er.'; }
+    75% { content: ' a Develop|er.'; }
+    76% { content: ' a Develope|r.'; }
+    77% { content: ' a Developer.|'; }
+    89% { content: ' a Developer.|'; }
+    90% { content: ' a Developer|'; }
+    91% { content: ' a Develope|'; }
+    92% { content: ' a Develop|'; }
+    93% { content: ' a Develo|'; }
+    94% { content: ' a Devel|'; }
+    95% { content: ' a Deve|'; }
+    96% { content: ' a Dev|'; }
+    97% { content: ' a De|'; }
+    98% { content: ' a D|'; }
+    99% { content: ' a|'; }
+    100% { content: ' |'; }
+}
+
+@keyframes moveDown {
+    0% {
+        opacity: 0;
+    }
+    90% {
+        bottom: 28px;
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        bottom: 28px;
+    }
+}
+
+/* 
+*   #DC3545
+*/
